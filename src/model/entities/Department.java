@@ -17,6 +17,11 @@ public class Department implements Serializable {
 	}
 
 
+	public Department() {
+		// TODO Auto-generated constructor stub
+	}
+
+
 	public Integer getId() {
 		return id;
 	}
